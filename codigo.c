@@ -2,7 +2,8 @@
 
 int main()
 {
-    printf("Hello World");
+    printf("Mudando a lingua:/n");
+    printf("Olá Mundo");
 
     return 0;
 }
